@@ -9,7 +9,7 @@ gem "haml"
 gem "pony"
 gem "sinatra"
 gem "zurb-foundation"
-gem "thin"
+# gem "thin"
 
 # Deploy with capistrano
 gem 'capistrano',  '~> 3.4.0', group: :development

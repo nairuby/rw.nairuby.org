@@ -36,8 +36,6 @@ GEM
       hashie (~> 1.0)
       httparty (~> 0.8)
       json
-    daemons (1.1.9)
-    eventmachine (1.2.3)
     ffi (1.9.3)
     haml (4.0.5)
       tilt
@@ -83,10 +81,6 @@ GEM
       colorize (>= 0.7.0)
       net-scp (>= 1.1.2)
       net-ssh (>= 2.8.0)
-    thin (1.6.2)
-      daemons (>= 1.0.9)
-      eventmachine (>= 1.0.0)
-      rack (>= 1.0.0)
     thread_safe (0.3.4)
     tilt (1.4.1)
     tzinfo (1.2.2)
@@ -109,7 +103,6 @@ DEPENDENCIES
   pony
   sinatra
   sinatra-contrib
-  thin
   zurb-foundation
 
 RUBY VERSION
