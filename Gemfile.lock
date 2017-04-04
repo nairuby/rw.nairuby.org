@@ -37,7 +37,7 @@ GEM
       httparty (~> 0.8)
       json
     daemons (1.1.9)
-    eventmachine (1.0.8)
+    eventmachine (1.2.3)
     ffi (1.9.3)
     haml (4.0.5)
       tilt
@@ -116,4 +116,4 @@ RUBY VERSION
    ruby 2.3.0p0
 
 BUNDLED WITH
-   1.12.5
+   1.13.7
