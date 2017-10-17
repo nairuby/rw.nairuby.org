@@ -1,8 +1,8 @@
 # config valid only for current version of Capistrano
 # lock '3.4.0'
 
-set :application, 'tz.nairuby.org'
-set :repo_url, 'git@github.com:nairuby/tz.nairuby.org.git'
+set :application, 'rw.nairuby.org'
+set :repo_url, 'git@github.com:nairuby/rw.nairuby.org.git'
 set :log_level, :debug
 set :rvm_ruby_version, '2.3.0@rails'
 set :default_stage, 'production'
